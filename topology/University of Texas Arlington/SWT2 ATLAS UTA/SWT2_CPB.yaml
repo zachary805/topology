@@ -7,18 +7,18 @@ Resources:
     ContactLists:
       Administrative Contact:
         Primary:
-          ID: 2b252bacdbe181b67c74ef8218c1de817e22a15f
-          Name: Patrick McGuigan
+          ID: 
+          Name: Zachary Booth
         Secondary:
-          ID: 85358c47f16fad2a915da157353581016788a30a
-          Name: Mark Sosebee
+          ID: 
+          Name: Andrey Zarochentsev
       Security Contact:
         Primary:
-          ID: 2b252bacdbe181b67c74ef8218c1de817e22a15f
-          Name: Patrick McGuigan
+          ID: 
+          Name: Zachary Booth
         Secondary:
-          ID: 85358c47f16fad2a915da157353581016788a30a
-          Name: Mark Sosebee
+          ID: 
+          Name: Andrey Zarochentsev
     Description: ATLAS Tier2 Production/Analysis facility
     FQDN: gk01.atlas-swt2.org
     ID: 139
@@ -50,18 +50,18 @@ Resources:
     ContactLists:
       Administrative Contact:
         Primary:
-          ID: 2b252bacdbe181b67c74ef8218c1de817e22a15f
-          Name: Patrick McGuigan
+          ID: 
+          Name: Zachary Booth
         Secondary:
-          ID: 85358c47f16fad2a915da157353581016788a30a
-          Name: Mark Sosebee
+          ID: 
+          Name: Andrey Zarochentsev
       Security Contact:
         Primary:
-          ID: 2b252bacdbe181b67c74ef8218c1de817e22a15f
-          Name: Patrick McGuigan
+          ID: 
+          Name: Zachary Booth
         Secondary:
-          ID: 85358c47f16fad2a915da157353581016788a30a
-          Name: Mark Sosebee
+          ID: 
+          Name: Andrey Zarochentsev
     Description: Second CE for CPB
     FQDN: gk10.atlas-swt2.org
     ID: 1264
@@ -89,12 +89,12 @@ Resources:
     ContactLists:
       Administrative Contact:
         Primary:
-          ID: 2b252bacdbe181b67c74ef8218c1de817e22a15f
-          Name: Patrick McGuigan
+          ID: 
+          Name: Zachary Booth
       Security Contact:
         Primary:
-          ID: 2b252bacdbe181b67c74ef8218c1de817e22a15f
-          Name: Patrick McGuigan
+          ID: 
+          Name: Zachary Booth
     Description: This is a small testing resource for the ATLAS resource only.  It
       needs to report to WLCG BDII, but gratia reporting is not important.  It will
       be used to work on a new software distribution mechanism within ATLAS
@@ -127,18 +127,18 @@ Resources:
     ContactLists:
       Administrative Contact:
         Primary:
-          ID: 2b252bacdbe181b67c74ef8218c1de817e22a15f
-          Name: Patrick McGuigan
+          ID: 
+          Name: Zachary Booth
         Secondary:
-          ID: 85358c47f16fad2a915da157353581016788a30a
-          Name: Mark Sosebee
+          ID: 
+          Name: Andrey Zarochentsev
       Security Contact:
         Primary:
-          ID: 2b252bacdbe181b67c74ef8218c1de817e22a15f
-          Name: Patrick McGuigan
+          ID: 
+          Name: Zachary Booth
         Secondary:
-          ID: 85358c47f16fad2a915da157353581016788a30a
-          Name: Mark Sosebee
+          ID: 
+          Name: Andrey Zarochentsev
     FQDN: gridftp.atlas-swt2.org
     ID: 191
     Services:
@@ -163,18 +163,18 @@ Resources:
     ContactLists:
       Administrative Contact:
         Primary:
-          ID: 2b252bacdbe181b67c74ef8218c1de817e22a15f
-          Name: Patrick McGuigan
+          ID: 
+          Name: Zachary Booth
         Secondary:
-          ID: 85358c47f16fad2a915da157353581016788a30a
-          Name: Mark Sosebee
+          ID: 
+          Name: Andrey Zarochentsev
       Security Contact:
         Primary:
-          ID: 2b252bacdbe181b67c74ef8218c1de817e22a15f
-          Name: Patrick McGuigan
+          ID: 
+          Name: Zachary Booth
         Secondary:
-          ID: 85358c47f16fad2a915da157353581016788a30a
-          Name: Mark Sosebee
+          ID: 
+          Name: Andrey Zarochentsev
     Description: Frontier/CVMFS round robin squid system
     FQDN: fsquid.atlas-swt2.org
     ID: 920
@@ -188,18 +188,18 @@ Resources:
     ContactLists:
       Administrative Contact:
         Primary:
-          ID: 2b252bacdbe181b67c74ef8218c1de817e22a15f
-          Name: Patrick McGuigan
+          ID: 
+          Name: Zachary Booth
         Secondary:
-          ID: 85358c47f16fad2a915da157353581016788a30a
-          Name: Mark Sosebee
+          ID: 
+          Name: Andrey Zarochentsev
       Security Contact:
         Primary:
-          ID: 2b252bacdbe181b67c74ef8218c1de817e22a15f
-          Name: Patrick McGuigan
+          ID: 
+          Name: Zachary Booth
         Secondary:
-          ID: 85358c47f16fad2a915da157353581016788a30a
-          Name: Mark Sosebee
+          ID: 
+          Name: Andrey Zarochentsev
     Description: Frontier/CVMFS SLATE based squid service
     FQDN: slate01.atlas-swt2.org
     ID: 1380
@@ -215,18 +215,18 @@ Resources:
     ContactLists:
       Administrative Contact:
         Primary:
-          ID: 85358c47f16fad2a915da157353581016788a30a
-          Name: Mark Sosebee
+          ID: 
+          Name: Zachary Booth
         Secondary:
-          ID: 2b252bacdbe181b67c74ef8218c1de817e22a15f
-          Name: Patrick McGuigan
+          ID: 
+          Name: Andrey Zarochentsev
       Security Contact:
         Primary:
-          ID: 85358c47f16fad2a915da157353581016788a30a
-          Name: Mark Sosebee
+          ID: 
+          Name: Zachary Booth
         Secondary:
-          ID: 2b252bacdbe181b67c74ef8218c1de817e22a15f
-          Name: Patrick McGuigan
+          ID: 
+          Name: Andrey Zarochentsev
     Description: This is the perfSONAR-PS bandwidth instance at SWT2_CPB
     FQDN: psuta02.atlas-swt2.org
     ID: 587
@@ -242,18 +242,18 @@ Resources:
     ContactLists:
       Administrative Contact:
         Primary:
-          ID: 2b252bacdbe181b67c74ef8218c1de817e22a15f
-          Name: Patrick McGuigan
+          ID: 
+          Name: Zachary Booth
         Secondary:
-          ID: 85358c47f16fad2a915da157353581016788a30a
-          Name: Mark Sosebee
+          ID: 
+          Name: Andrey Zarochentsev
       Security Contact:
         Primary:
-          ID: 2b252bacdbe181b67c74ef8218c1de817e22a15f
-          Name: Patrick McGuigan
+          ID: 
+          Name: Zachary Booth
         Secondary:
-          ID: 85358c47f16fad2a915da157353581016788a30a
-          Name: Mark Sosebee
+          ID: 
+          Name: Andrey Zarochentsev
     Description: This is the perfSONAR-PS latency instance at SWT2_CPB
     FQDN: psuta01.atlas-swt2.org
     ID: 520
@@ -272,15 +272,15 @@ Resources:
           ID: OSG1000710
           Name: Armen Vartapetian
         Secondary:
-          ID: 85358c47f16fad2a915da157353581016788a30a
-          Name: Mark Sosebee
+          ID: 
+          Name: Zachary Booth
       Security Contact:
         Primary:
           ID: OSG1000710
           Name: Armen Vartapetian
         Secondary:
-          ID: 85358c47f16fad2a915da157353581016788a30a
-          Name: Mark Sosebee
+          ID: 
+          Name: Zachary Booth
     Description: ATLAS Tier2 Kubernetes queue
     FQDN: cpb-k8s.atlas-swt2.org  # placeholder
     Services:
